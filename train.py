@@ -73,7 +73,7 @@ def build_model(input_shape, loss="sparse_categorical_crossentropy", learning_ra
     # Dense layers
     model.add(Dense(4096, activation='relu'))
     model.add(Dense(4096, activation='relu'))
-    model.add(Dense(10, activation='sigmoid'))
+    model.add(Dense(10, activation='softmax'))
 
 
 

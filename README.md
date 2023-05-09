@@ -3,4 +3,4 @@ Developed a speech recognition system to predict the spoken word among 10 classe
 
 Dataset Link: https://ai.googleblog.com/2017/08/launching-speech-commands-dataset.html
 
-Weights: https://drive.google.com/file/d/1nngj_J3T8jp_cChjX3a4HEzHf2wfR-cT/view?usp=share_link
+Weights: https://drive.google.com/file/d/1N0E73JUWZFpi1skJh3fmWIGh02lGVLiS/view?usp=sharing
